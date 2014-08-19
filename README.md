@@ -2,6 +2,8 @@
 
 [![browser support](https://ci.testling.com/bloodyowl/list.png)](https://ci.testling.com/bloodyowl/list)
 
+[![Build Status](https://travis-ci.org/bloodyowl/list.svg)](https://travis-ci.org/bloodyowl/list)
+
 an array watcher
 
 ## install
